@@ -95,7 +95,7 @@
 
     onBodyFrameLoad: function () {
       this.children.BodyHTML.viewModel.$el.contents().find('body').css({
-	      'overflow': 'hidden'
+							'overflow': 'scroll'
       });
 
         var images = this.children.BodyHTML.viewModel.$el.contents().find('img');

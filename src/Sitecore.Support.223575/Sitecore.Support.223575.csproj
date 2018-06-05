@@ -60,7 +60,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\zzz\Sitecore.Support.223575.config" />
     <Content Include="sitecore\shell\client\Applications\ECM\EmailCampaign.Controls\MessageVariant\MessageVariant.css" />
     <Content Include="sitecore\shell\client\Applications\ECM\EmailCampaign.Controls\MessageVariant\MessageVariant.min.css" />
     <Content Include="sitecore\shell\client\Applications\ECM\EmailCampaign.Controls\MessageVariant\MessageVariantComponent.js" />
